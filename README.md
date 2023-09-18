@@ -2,7 +2,7 @@
 Just got the approval to release the code and will update the codebase soon.
 
 This is the implementation for the paper:
-UAI'23. You may find it on [Arxiv]([https://arxiv.org/pdf/2301.12197.pdf](https://arxiv.org/pdf/2306.03191.pdf))
+UAI'23. You may find it on [Arxiv]([https://arxiv.org/pdf/2306.03191.pdf])
 
 ### Please cite our papers if you use the code:
 ```bibtex
