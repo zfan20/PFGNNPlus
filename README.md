@@ -1,6 +1,4 @@
 # Personalized federated domain adaptation for item-to-item recommendation (PFGNNPlus, UAI 2023)
-Just got the approval to release the code and will update the codebase soon.
-
 This is the implementation for PFGNNPlus UAI'23. You may find the paper on [Arxiv](https://arxiv.org/pdf/2306.03191.pdf).
 
 ## Abstract
