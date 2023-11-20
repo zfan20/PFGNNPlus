@@ -8,10 +8,10 @@ Item-to-Item (I2I) recommendation is an important function that suggests replace
 
 
 ## Dataset
-Please download the open public dataset from https://xmrec.github.io/
+Please download the open public dataset from https://xmrec.github.io/ and put it in a directory relative to this code base root as raw_data/xmarketdata/.
 
 ## Execution Environment
-We suggest to use multi-gpus machine to run the algorithm.
+We suggest using a multi-gpus machine to run the algorithm.
 
 ## Example code to run
 ```
